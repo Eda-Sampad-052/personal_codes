@@ -1,0 +1,6 @@
+training/Dog/
+training/data/
+training/human/
+training/humans/
+training/*.keras
+training/*.h5
