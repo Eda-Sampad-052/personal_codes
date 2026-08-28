@@ -4,3 +4,4 @@ training/human/
 training/humans/
 training/*.keras
 training/*.h5
+*.zip
